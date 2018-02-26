@@ -1,5 +1,5 @@
 FactoryBot.define do
-  factory :school_class do
+  factory :school do
     title ""
     room_number 1
   end
